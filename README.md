@@ -4,7 +4,7 @@
 **Created for:** Northwestern Coding Bootcamp \
 **Developers:** Natalia Kukula, Kat Eng, Kathy Barnak, Lindsey Cardenas \
 **Deployment Date:**  March 2, 2019 \
-**Published:** Heroku <https://powerquartet.herokuapp.com/> \
+**Published:** Heroku <https://powerquartet.herokuapp.com/> - no longer hosted \
 **Built with:** MERN Stack \
 **Technologies:** MongoDB, Express, React.JS, Node.JS, Firebase Authentication \
 **Npm Libraries:** React Router DOM, React DragAndDrop, React Card Flip, React Icons, React Bootstrap
